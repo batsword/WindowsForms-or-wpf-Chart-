@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication2", "WindowsFormsApplication2\WindowsFormsApplication2.csproj", "{2B232D1F-8F37-44DD-A4A3-DDC2F902906E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighChart1", "HighChart1\HighChart1\HighChart1.csproj", "{E8FAEBEA-DE8D-4DD6-AB9B-6EE4FB2B500D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighChart1", "HighChart1\HighChart1.csproj", "{E8FAEBEA-DE8D-4DD6-AB9B-6EE4FB2B500D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B232D1F-8F37-44DD-A4A3-DDC2F902906E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B232D1F-8F37-44DD-A4A3-DDC2F902906E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B232D1F-8F37-44DD-A4A3-DDC2F902906E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B232D1F-8F37-44DD-A4A3-DDC2F902906E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E8FAEBEA-DE8D-4DD6-AB9B-6EE4FB2B500D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E8FAEBEA-DE8D-4DD6-AB9B-6EE4FB2B500D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8FAEBEA-DE8D-4DD6-AB9B-6EE4FB2B500D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -26,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0C4A4A68-14D6-48F0-BB0E-252C3C5FD6A4}
+		SolutionGuid = {5B2D209D-269A-4B06-BC39-77A0CFB815FD}
 	EndGlobalSection
 EndGlobal

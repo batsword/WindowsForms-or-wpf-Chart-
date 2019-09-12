@@ -7,3 +7,13 @@ c:\users\14923\documents\visual studio 2015\Projects\WindowsFormsApplication2\Wi
 c:\users\14923\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\14923\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 c:\users\14923\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\zyj\git\WindowsFormsChart\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

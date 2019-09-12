@@ -90,7 +90,7 @@ namespace WindowsFormsApplication2
 
                 g.Dispose();
 
-                Thread.Sleep(500);                 //每2秒钟刷新一次  
+                Thread.Sleep(50);                 //每2秒钟刷新一次  
 
             }
 
